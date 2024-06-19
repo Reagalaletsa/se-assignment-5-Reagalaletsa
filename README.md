@@ -153,7 +153,7 @@ Configure extension settings under File > Preferences > Settings and search for 
       - Ensure you have a GitHub account and a repository created.
       - Link your local repository to the remote GitHub repository:
       - Use the Git: Add Remote command in the Command Palette
-      - Provide the GitHub repository URL.
+      - Provide the GitHub repository URL
    5. Push your commits to GitHub:
       - Click the Push button in the Source Control panel.
       - Choose the branch (usually “master” or “main”) and push your changes
